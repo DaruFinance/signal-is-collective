@@ -1,0 +1,15 @@
+{
+  "n_strategies": 30000,
+  "n_windows": 60,
+  "n_portfolios": 10000,
+  "k": 50,
+  "seed": 2026,
+  "individual_mean": 0.052664,
+  "individual_std": 0.136008,
+  "individual_q05": -0.168209,
+  "individual_q95": 0.274632,
+  "portfolio_mean": 0.20306,
+  "portfolio_std": 0.074757,
+  "portfolio_q05": 0.081308,
+  "portfolio_q95": 0.327367
+}

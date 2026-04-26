@@ -1,0 +1,17 @@
+[project]
+name = "signal-is-collective"
+version = "0.1.0"
+description = "Reproducible synthetic demos behind the article \"The signal is collective\"."
+authors = [{ name = "Daniel Vieira Gatto" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "scipy>=1.11",
+  "matplotlib>=3.8",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
