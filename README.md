@@ -2,6 +2,8 @@
 
 **Reproducible synthetic demos behind the article _"The signal is collective"_.**
 
+> Reproducible demos for [The signal is collective](https://www.daru.finance/projects/signal-is-collective), an article by Daniel Gatto on [daru.finance](https://www.daru.finance).
+
 The article (live at the portfolio site) defends the claim that signal at the
 individual-strategy level and signal at the portfolio level are mathematically
 distinct objects: across ≈360 000 strategy configurations on nine instruments,
